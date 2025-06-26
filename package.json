@@ -1,0 +1,19 @@
+{
+  "name": "circleci_playwright",
+  "version": "1.0.0",
+  "description": "A simple Playwright project for testing CircleCI integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
