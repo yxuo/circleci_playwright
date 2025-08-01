@@ -6,5 +6,5 @@ test('basic test - check title of example.com', async ({ page }) => {
     // const title = await page.title();
     // expect(title).toBe('Example Domain');
     // Simply test if true is true
-    expect(true).toBe(true);
+    expect(true).toBe(false);
 });
