@@ -130,3 +130,5 @@ dist
 
 # playwright
 test-results/
+playwright-report/
+output/

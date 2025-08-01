@@ -42,7 +42,9 @@ Isso irá rodar todos os testes definidos na pasta `tests`.
 
 ## Configuração do CircleCI
 
-Este projeto está configurado para ser executado no CircleCI. Certifique-se de que o arquivo de configuração do CircleCI (`.circleci/config.yml`) esteja presente e configurado corretamente para rodar os testes.
+Este projeto está configurado, **em outro repositório**, para ser executado no CircleCI. Certifique-se de que o arquivo de configuração do CircleCI (`.circleci/config.yml`) esteja presente e configurado corretamente para rodar os testes.
+
+Veja [yxuo/circleci_repo](https://github.com/yxuo/circleci_repo)
 
 ## Contribuições
 
@@ -51,3 +53,5 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Basta abrir um
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+
+
