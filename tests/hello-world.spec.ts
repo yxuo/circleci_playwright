@@ -22,5 +22,5 @@ test('basic test - 3', async ({ page }) => {
     // const title = await page.title();
     // expect(title).toBe('Example Domain');
     // Simply test if true is true
-    expect(true).toBe(false);
+    expect(true).toBe(true);
 });
